@@ -1,0 +1,6 @@
+D:\C#\C#\TestTaskLibrary\TestTaskLibrary\bin\Debug\TestTaskLibrary.dll
+D:\C#\C#\TestTaskLibrary\TestTaskLibrary\bin\Debug\TestTaskLibrary.pdb
+D:\C#\C#\TestTaskLibrary\TestTaskLibrary\obj\Debug\TestTaskLibrary.csprojAssemblyReference.cache
+D:\C#\C#\TestTaskLibrary\TestTaskLibrary\obj\Debug\TestTaskLibrary.csproj.CoreCompileInputs.cache
+D:\C#\C#\TestTaskLibrary\TestTaskLibrary\obj\Debug\TestTaskLibrary.dll
+D:\C#\C#\TestTaskLibrary\TestTaskLibrary\obj\Debug\TestTaskLibrary.pdb
